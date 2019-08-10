@@ -1,4 +1,4 @@
-                                                          Privacy Policy
+                                                       Privacy Policy
 
 Aram Martirosyan built the Glow Road app as a Free app. This SERVICE is provided by Aram Martirosyan at no cost and is intended for use as is.
 
