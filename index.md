@@ -1,6 +1,4 @@
-                                                                                                    Privacy Policy
-
-Privacy Policy
+                                                           Privacy Policy
 Aram Martirosyan built the Glow Road app as a Free app. This SERVICE is provided by Aram Martirosyan at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
@@ -18,9 +16,13 @@ The app does use third party services that may collect information used to ident
 Link to privacy policy of third party service providers used by the app
 
 Google Play Services  https://policies.google.com/privacy
+
 Facebook   https://www.facebook.com/about/privacy
+
 Unity      https://unity3d.com/legal/privacy-policy
+
 AppsFlyer  https://www.appsflyer.com/product/security-and-privacy/
+
 
 Log Data
 
