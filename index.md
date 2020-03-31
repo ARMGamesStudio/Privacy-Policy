@@ -23,6 +23,7 @@ Unity      https://unity3d.com/legal/privacy-policy
 
 AppsFlyer  https://www.appsflyer.com/product/security-and-privacy/
 
+Appodeal   https://www.appodeal.com/home/privacy-policy/
 
 Log Data
 
